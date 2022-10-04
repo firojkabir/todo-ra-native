@@ -21,7 +21,6 @@ const styles = StyleSheet.create({
 		color: "#fff",
 		fontSize: 25,
 		fontWeight: "bold",
-		fontFamily: "Comic Sans MS",
 	},
 });
 
